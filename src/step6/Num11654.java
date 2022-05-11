@@ -11,6 +11,7 @@ public class Num11654 {
 
     public static void main(String[] args) throws IOException {
 
+        // System.in.read() : 아스키 코드로 값을 받는다 (int형)
         System.out.println(System.in.read());
     }
 
